@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: Ankit-Mishra
+
 eureka:
   instance:
     prefer-ip-address: true
